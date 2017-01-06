@@ -4,7 +4,7 @@
 
 # Install
 ```
-git clone https://github.com/agm1984/simpleWebsiteTemplate.git
+git clone (https://github.com/agm1984/simpleWebsiteTemplate.git)
 cd simpleWebsiteTemplate
 npm install
 ```
@@ -15,7 +15,7 @@ npm start
 ```
 
 # Test
-http://localhost:3000
+(http://localhost:3000)
 
 # Contact Form Secrets
 This contact form is set up to send the message via email from your localmachine using the module Nodemailer. Visit their website if you want to set it up to email through your Gmail or otherwise.
