@@ -2,22 +2,22 @@
 # Simple Website Template #
 ###########################
 
-# Install
+## Install
 ```
-git clone <https://github.com/agm1984/simpleWebsiteTemplate.git>
+git clone https://github.com/agm1984/simpleWebsiteTemplate.git
 cd simpleWebsiteTemplate
 npm install
 ```
 
-# First Run
+## First Run
 ```
 npm start
 ```
 
-# Test
+## Test
 <http://localhost:3000>
 
-# Contact Form Secrets
+## Contact Form Secrets
 This contact form is set up to send the message via email from your localmachine using the module Nodemailer. Visit their website if you want to set it up to email through your Gmail or otherwise.
 
 I am using Fedora 25 with postfix and mailx. If you are using Ubuntu, which you probably are, you should install postfix and mail-utils.
